@@ -19,12 +19,13 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 ## 📈 GitHub Stats
 
-![Pawishrajhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codesaur1618&show_icons=true&theme=radical)
+![Pawishrajhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawishrajhen&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codesaur1618&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawishrajhen&layout=compact&theme=radical)
 
 ---
 
