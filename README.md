@@ -44,8 +44,8 @@ Perfect! Here's how you can cleanly add your **social media handles** to your Gi
   <a href="https://www.kaggle.com/pawish" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:pawishrajhen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pawishrajhen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
