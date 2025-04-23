@@ -9,7 +9,6 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 - 💼 Background in: Data science, environmental modeling, and scientific research
 - 🛠️ Skills: Python | JavaScript | React | Node.js | Git | Time-Series Modeling | Data Visualization | Scientific Computing
 - 💬 Ask me about: APIs, web development, or cool side projects
-- 📫 Reach me at: pawishrajhen@gmail.com
 - ⚡ Fun fact: I once debugged a project at 2AM and ended up learning a new framework by accident!
 
 ## 🧰 My Toolbox
@@ -27,6 +26,18 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 ![Pawishrajhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawishrajhenAR&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawishrajhenAR&layout=compact&theme=radical)
+
+---
+Perfect! Here's how you can cleanly add your **social media handles** to your GitHub profile README with icons and links. Just plug in your actual URLs where noted:
+
+---
+
+### 📬 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pawish6364/])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]([https://www.instagram.com/ipawish/])
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawishrajhen@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/pawish)
 
 ---
 
