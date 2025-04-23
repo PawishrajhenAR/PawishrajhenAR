@@ -4,7 +4,8 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: [Some Project]
+- 🔭 Currently working on: ![Uploading HmmmmGIF.gif…]()
+
 - 💼 Background in: Data science, environmental modeling, and scientific research
 - 🛠️ Skills: Python | JavaScript | React | Node.js | Git | Time-Series Modeling | Data Visualization | Scientific Computing
 - 💬 Ask me about: APIs, web development, or cool side projects
