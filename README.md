@@ -23,9 +23,9 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 
 ## 📈 GitHub Stats
 
-![Pawishrajhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawishrajhen&show_icons=true&theme=radical)
+![Pawishrajhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawishrajhenAR&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawishrajhen&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawishrajhenAR&layout=compact&theme=radical)
 
 ---
 
