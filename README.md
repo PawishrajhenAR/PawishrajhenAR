@@ -32,12 +32,22 @@ Perfect! Here's how you can cleanly add your **social media handles** to your Gi
 
 ---
 
-### 📬 Let’s Connect!
+<h3 align="center">📬 Let’s Connect!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pawish6364/])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]([https://www.instagram.com/ipawish/])
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawishrajhen@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/pawish)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawish6364/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ipawish/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/pawish" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:pawishrajhen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
