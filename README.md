@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 - 💼 Background in: Data science, environmental modeling, and scientific research
 - 🛠️ Skills: Python | JavaScript | React | Node.js | Git | Time-Series Modeling | Data Visualization | Scientific Computing
 - 💬 Ask me about: APIs, web development, or cool side projects
-- 📫 Reach me at: [pawishrajhen@gmail.com]
+- 📫 Reach me at: pawishrajhen@gmail.com
 - ⚡ Fun fact: I once debugged a project at 2AM and ended up learning a new framework by accident!
 
 ## 🧰 My Toolbox
