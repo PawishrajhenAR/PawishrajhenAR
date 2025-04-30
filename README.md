@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 ## 📈 GitHub Stats
