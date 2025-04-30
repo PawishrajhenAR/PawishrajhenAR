@@ -1,5 +1,6 @@
 # 👋 Hey there, I'm Pawishrajhen!
-![image](https://github.com/user-attachments/assets/58d6870e-26fd-4769-9ca6-b3d5d722b230)
+![image](https://github.com/user-attachments/assets/89c407f9-3568-4114-99de-a31a5edd04e1)
+
 
 Welcome to my GitHub! I'm a developer with a curious mind and a passion for creating meaningful digital experiences. Whether it's crafting clean code, exploring new tech, or collaborating on exciting projects—I’m all in.
 
