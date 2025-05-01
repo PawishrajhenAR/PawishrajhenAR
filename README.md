@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Pawishrajhen!
+# 👋 Hey there, I'm Pawish!
 ![image](https://github.com/user-attachments/assets/89c407f9-3568-4114-99de-a31a5edd04e1)
 
 
