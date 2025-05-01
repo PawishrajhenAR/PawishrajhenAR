@@ -28,10 +28,6 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawishrajhenAR&layout=compact&theme=radical)
 
----
-Perfect! Here's how you can cleanly add your **social media handles** to your GitHub profile README with icons and links. Just plug in your actual URLs where noted:
-
----
 
 <h3 align="center">📬 Let’s Connect!</h3>
 
