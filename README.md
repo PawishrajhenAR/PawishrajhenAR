@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a developer with a curious mind and a passion for crea
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Rizzing the AI
+- 🔭 Currently working on: Some AI Recipe
 - 💼 Background in: Data science, environmental modeling, and scientific research
 - 🛠️ Skills: Python | JavaScript | React | Node.js | Git | Time-Series Modeling | Data Visualization | Scientific Computing
 - 💬 Ask me about: APIs, web development, or cool side projects
