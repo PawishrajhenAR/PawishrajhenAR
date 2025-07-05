@@ -8,12 +8,12 @@
 </div>
 
 <div align="center">
-  
-<div align="center">
   <!-- Animated typing effect -->
+</div>
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
 <div align="center">
+<div>
   
   <!-- Profile views with custom styling - next line after typing -->
   <img src="https://komarev.com/ghpvc/?username=PawishrajhenAR&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
