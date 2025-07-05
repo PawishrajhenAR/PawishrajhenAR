@@ -164,6 +164,25 @@ class AIEngineer:
 
 ---
 
+🎵 Coding Vibes
+<div align="center">
+  <!-- Simple Spotify badge -->
+  <a href="https://open.spotify.com">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&label=Coding%20with" alt="Spotify"/>
+  </a>
+  <!-- Music mood badges -->
+  <p>
+    <img src="https://img.shields.io/badge/🎧_Lo--fi_Hip_Hop-FF6B6B?style=flat-square&labelColor=1ED760&color=white" alt="Lo-fi Hip Hop"/>
+    <img src="https://img.shields.io/badge/🎵_Electronic_Focus-4ECDC4?style=flat-square&labelColor=1ED760&color=white" alt="Electronic Focus"/>
+    <img src="https://img.shields.io/badge/🎼_Coding_Beats-45B7D1?style=flat-square&labelColor=1ED760&color=white" alt="Coding Beats"/>
+    <img src="https://img.shields.io/badge/🎹_Ambient_Chill-96CEB4?style=flat-square&labelColor=1ED760&color=white" alt="Ambient Chill"/>
+  </p>
+🎧 My coding fuel: Deep Focus Playlists + Neural Networks = Perfect Flow State 🚀
+"Currently debugging to the rhythm of lo-fi beats!" 🎵
+</div>
+
+---
+
 ## 📫 Let's Build Something Amazing Together!
 
 <div align="center">
