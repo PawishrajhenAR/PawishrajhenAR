@@ -9,10 +9,9 @@
 
 <div align="center">
   <!-- Animated typing effect -->
+<div align="center">
 </div>
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
-
-<div align="center">
 <div>
   
   <!-- Profile views with custom styling - next line after typing -->
