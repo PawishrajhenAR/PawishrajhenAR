@@ -164,16 +164,17 @@ class AIEngineer:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  
+
   <!-- Trophy with animation - centered -->
+  <div style="display: flex; justify-content: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="Trophy GIF">
+  </div>
+  <br/>
+
   <img src="https://github-profile-trophy.vercel.app/?username=PawishrajhenAR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&border_radius=10" alt="GitHub Trophies"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="Trophy GIF">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=PawishrajhenAR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&border_radius=10" alt="GitHub Trophies"/>
-  
+
 </div>
 
----
 
 ## 🎵 Coding Vibes
 
