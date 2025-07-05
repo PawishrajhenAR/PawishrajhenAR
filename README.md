@@ -9,10 +9,12 @@
 
 <div align="center">
   
- <!-- Animated typing effect -->
-<img src="https://your-vercel-domain.vercel.app?lines=AI+Engineer;Full+Stack+Dev&font=Fira+Code&center=true&width=500&height=50&color=00D9FF" />
-
-</div>
+<div align="center">
+  <!-- Animated typing effect -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <!-- Social badges with custom styling -->
+  <p>
+    <a
 
 <div align="center">
   
