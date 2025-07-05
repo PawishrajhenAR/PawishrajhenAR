@@ -1,4 +1,4 @@
-# 🚀 Welcome to My AI & Tech Universe
+Hey
 
 <div align="center">
   
