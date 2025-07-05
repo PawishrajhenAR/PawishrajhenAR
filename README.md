@@ -1,20 +1,20 @@
-# 🚀 Welcome to My Digital Universe
+# 🚀 Welcome to My AI & Tech Universe
 
 <div align="center">
   
   <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Engineer;Computer+Vision+Specialist;Full-Stack+Developer;Blockchain+Enthusiast;Always+Building+Something+Cool&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG" />
   
   <!-- Social badges with custom styling -->
   <p>
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/PawishrajhenAR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/pawish6364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/ipawish/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="mailto:pawishrajhen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
   
   <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PawishrajhenAR&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
 </div>
 
@@ -22,119 +22,152 @@
 
 ## 🎯 About Me
 
-```typescript
-const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    technologies: {
-        frontend: ["React", "Vue.js", "Angular", "Next.js"],
-        backend: ["Node.js", "Django", "Spring Boot", "Express"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        cloud: ["AWS", "Google Cloud", "Azure"],
-        tools: ["Docker", "Kubernetes", "Git", "CI/CD"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Pawishrajhen AR"
+        self.role = "AI & ML Engineer"
+        self.location = "India"
+        self.specialization = [
+            "Computer Vision",
+            "Natural Language Processing", 
+            "Reinforcement Learning",
+            "Blockchain Development"
+        ]
+        self.current_focus = "Building AI-powered applications"
+        self.fun_fact = "I train neural networks and debug them like a detective! 🕵️‍♂️"
+    
+    def get_skills(self):
+        return {
+            "ai_ml": ["OpenCV", "MediaPipe", "YOLO", "Keras", "TensorFlow", "PyTorch"],
+            "nlp": ["Transformers", "Hugging Face", "Vosk", "RAG"],
+            "rl": ["DQN", "REINFORCE", "PPO", "Q-Learning", "OpenAI Gym"],
+            "web": ["Flask", "Node.js", "FastAPI", "Streamlit"],
+            "blockchain": ["Web3.js", "Smart Contracts"],
+            "cloud": ["GCP", "Docker", "Firebase"]
+        }
 ```
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 Enhanced GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  
+  <!-- Main stats with custom theme -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"/>
+  
+  <!-- Top languages with enhanced styling -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawishrajhenAR&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=320"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub streak with custom styling -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawishrajhenAR&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<!-- Additional detailed stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PawishrajhenAR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="WakaTime Stats"/>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 💾 Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔗 Blockchain & Other
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Activity Graph
+## 📊 Comprehensive Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawishrajhenAR&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PawishrajhenAR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎨 Featured Projects
+## 🎨 Featured AI Projects
 
 <div align="center">
   
-  <!-- Project 1 -->
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" alt="Project 1"/>
+  <!-- Replace these with your actual repository names -->
+  <a href="https://github.com/PawishrajhenAR/computer-vision-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=computer-vision-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Computer Vision Project"/>
   </a>
   
-  <!-- Project 2 -->
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" alt="Project 2"/>
+  <a href="https://github.com/PawishrajhenAR/nlp-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=nlp-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="NLP Project"/>
   </a>
   
-  <!-- Project 3 -->
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical&hide_border=true" alt="Project 3"/>
+  <a href="https://github.com/PawishrajhenAR/blockchain-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=blockchain-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Blockchain Project"/>
   </a>
   
-  <!-- Project 4 -->
-  <a href="https://github.com/yourusername/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical&hide_border=true" alt="Project 4"/>
+  <a href="https://github.com/PawishrajhenAR/reinforcement-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=reinforcement-learning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Reinforcement Learning"/>
   </a>
   
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/PawishrajhenAR/PawishrajhenAR/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🔥 My GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/PawishrajhenAR?template=classic&languages=1&lines=1&followup=1&repositories=1&achievements=1&notable=1&discussions=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
 </div>
 
 ---
@@ -142,51 +175,70 @@ const developer = {
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-## 🎵 Currently Listening To
+## 🎵 Coding Playlist
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1&unique=true" alt="Spotify Recently Played"/>
+  
+  **🎧 Currently vibing to:** *Lo-fi beats while debugging neural networks* 🎵
+  
+  *"Good code is like a good joke – it needs no explanation, but great AI models need great data!"*
+  
 </div>
 
 ---
 
-## 🌟 Support My Work
+## 🌟 Support My AI Journey
 
 <div align="center">
   
-  If you find my work helpful, consider supporting me:
+  If you find my AI projects helpful or interesting:
   
-  <a href="https://buymeacoffee.com/yourusername">
+  <a href="https://buymeacoffee.com/pawishrajhen">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
   
-  <a href="https://paypal.me/yourusername">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  <a href="https://github.com/sponsors/PawishrajhenAR">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors"/>
   </a>
   
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Build Something Amazing Together!
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."**
+  **"The best way to predict the future is to create it with AI"**
   
-  Feel free to reach out if you want to collaborate on projects, discuss tech, or just say hi! 👋
+  💬 Always open to collaborating on AI projects, discussing latest tech trends, or just geeking out about machine learning!
   
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pawishrajhen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/pawish6364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
 </div>
 
+---
+
+## 🚀 Fun Facts About Me
+
+- 🔬 I love experimenting with cutting-edge AI models
+- 🎯 Currently exploring Agentic AI and RAG systems
+- 🌊 Fascinated by the intersection of AI and blockchain
+- 📚 Always learning something new in the AI space
+- 🎮 I believe reinforcement learning is the future of AI decision-making
+- 🔊 I can make computers see, hear, and understand human language!
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=58a6ff" alt="Footer"/>
 </div>
