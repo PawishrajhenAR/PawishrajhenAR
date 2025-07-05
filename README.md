@@ -64,39 +64,6 @@ class AIEngineer:
 ```
 ---
 
-## 🎯 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Coding GIF">
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Pawishrajhen AR"
-        self.role = "AI & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.specialization = [
-            "🔬 Computer Vision",
-            "🧠 Natural Language Processing", 
-            "🎯 Reinforcement Learning",
-            "⛓️ Blockchain Development",
-            "🌐 Full-Stack Development"
-        ]
-        self.current_focus = "Building AI-powered applications"
-        self.fun_fact = "I train neural networks and debug them like a detective! 🕵️‍♂️"
-        self.motto = "Code + AI = Magic ✨"
-    
-    def get_daily_routine(self):
-        return [
-            "☕ Coffee + Code",
-            "🧠 Train Neural Networks", 
-            "🔬 Experiment with AI",
-            "🚀 Build Cool Stuff",
-            "📚 Learn Something New"
-        ]
-```
-
----
-
 ## 🔥 GitHub Stats Showcase
 
 <div align="center">
