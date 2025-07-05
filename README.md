@@ -166,6 +166,7 @@ class AIEngineer:
 <div align="center">
   
   <!-- Trophy with animation - centered -->
+  <img src="https://github-profile-trophy.vercel.app/?username=PawishrajhenAR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&border_radius=10" alt="GitHub Trophies"/>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="Trophy GIF">
   
   <img src="https://github-profile-trophy.vercel.app/?username=PawishrajhenAR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&border_radius=10" alt="GitHub Trophies"/>
@@ -177,14 +178,7 @@ class AIEngineer:
 ## 🎵 Coding Vibes
 
 <div align="center">
-  
-  <!-- Music mood badges -->
-  <p>
-    <img src="https://img.shields.io/badge/🎧_Lo--fi_Hip_Hop-FF6B6B?style=flat-square&labelColor=1ED760&color=white" alt="Lo-fi Hip Hop"/>
-    <img src="https://img.shields.io/badge/🎵_Electronic_Focus-4ECDC4?style=flat-square&labelColor=1ED760&color=white" alt="Electronic Focus"/>
-    <img src="https://img.shields.io/badge/🎼_Coding_Beats-45B7D1?style=flat-square&labelColor=1ED760&color=white" alt="Coding Beats"/>
-    <img src="https://img.shields.io/badge/🎹_Ambient_Chill-96CEB4?style=flat-square&labelColor=1ED760&color=white" alt="Ambient Chill"/>
-  </p>
+
   
   **🎧 My coding fuel:** *Deep Focus Playlists + Neural Networks = Perfect Flow State* 🚀
   
