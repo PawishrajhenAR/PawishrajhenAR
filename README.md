@@ -14,6 +14,7 @@
   src="https://readme-typing-svg.demolab.com?lines=🤖+AI+%26+ML+Engineer;👁️+Computer+Vision+Specialist;🌐+Full-Stack+Developer;⛓️+Blockchain+Enthusiast;🚀+Always+Building+Something+Cool;🧠+Neural+Network+Whisperer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=00D9FF" 
   alt="Typing SVG" />
 
+
   
 </div>
 
