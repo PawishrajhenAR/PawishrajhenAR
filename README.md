@@ -10,9 +10,13 @@
 <div align="center">
   
   <!-- Animated typing effect - next line -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+AI+%26+ML+Engineer;👁️+Computer+Vision+Specialist;🌐+Full-Stack+Developer;⛓️+Blockchain+Enthusiast;🚀+Always+Building+Something+Cool;🧠+Neural+Network+Whisperer&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=800&color=00D9FF&multiline=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+AI+%26+ML+Engineer;👁️+Computer+Vision+Specialist;🌐+Full-Stack+Developer;⛓️+Blockchain+Enthusiast;🚀+Always+Building+Something+Cool;🧠+Neural+Network+Whisperer&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=800&color=00D9FF" alt="Typing SVG" />
   
-  <!-- Profile views with custom styling -->
+</div>
+
+<div align="center">
+  
+  <!-- Profile views with custom styling - next line after typing -->
   <img src="https://komarev.com/ghpvc/?username=PawishrajhenAR&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
   
   <!-- Social badges with animations -->
