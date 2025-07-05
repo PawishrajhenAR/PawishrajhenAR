@@ -1,15 +1,19 @@
 # 🚀 Welcome to My AI & Tech Universe
 
 <div align="center">
+
   <!-- Hero section with animated GIF - centered -->
+
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="AI Coding Animation">
 
-  <!-- Animated typing effect -->
+  <!-- Animated typing effect - second line -->
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
   <!-- Profile views with custom styling -->
 
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=PawishrajhenAR&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
 
   <!-- Social badges -->
@@ -41,10 +45,10 @@ class AIEngineer:
     def __init__(self):
         self.name = "Pawishrajhen AR"
         self.role = "AI & ML Engineer"
-        self.location = "India 🇨🇳"
+        self.location = "India 🇮🇳"
         self.specialization = [
             "🔬 Computer Vision",
-            "🧠 Natural Language Processing",
+            "🧠 Natural Language Processing", 
             "🎯 Reinforcement Learning",
             "⛓️ Blockchain Development",
             "🌐 Full-Stack Development"
@@ -56,7 +60,7 @@ class AIEngineer:
     def get_daily_routine(self):
         return [
             "☕ Coffee + Code",
-            "🧠 Train Neural Networks",
+            "🧠 Train Neural Networks", 
             "🔬 Experiment with AI",
             "🚀 Build Cool Stuff",
             "📚 Learn Something New"
