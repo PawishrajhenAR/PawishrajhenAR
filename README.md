@@ -126,52 +126,6 @@ class AIEngineer:
 
 ---
 
-## 🎨 My AI Project Areas
-
-<div align="center">
-
-### 🔬 Computer Vision
-*Building intelligent systems that can see and understand the world*
-- **Object Detection & Recognition** using YOLO and OpenCV
-- **Real-time Face & Pose Detection** with MediaPipe
-- **Image Processing & Analysis** pipelines
-
-### 🧠 Natural Language Processing
-*Teaching machines to understand human language*
-- **Text Analysis & Sentiment Detection**
-- **Speech Recognition** using Vosk
-- **RAG Systems** for intelligent document processing
-
-### 🎯 Reinforcement Learning
-*Creating agents that learn from experience*
-- **Game AI** using DQN and PPO algorithms
-- **Decision-making Systems** with Q-Learning
-- **Multi-agent Environments** with OpenAI Gym
-
-### 🔗 Blockchain Development
-*Building decentralized applications*
-- **Smart Contract Development**
-- **Web3 Integration** with modern frontends
-- **DeFi Applications** and protocols
-
-</div>
-
----
-
-## 📈 Additional GitHub Stats
-
-<div align="center">
-  
-  <!-- Repository stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&custom_title=Pawishrajhen's%20GitHub%20Stats" alt="Additional Stats"/>
-  
-  <!-- Contribution calendar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats"/>
-  
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
