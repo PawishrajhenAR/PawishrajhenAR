@@ -1,4 +1,4 @@
-🚀 Welcome to My AI & Tech Universe
+## Hey 
 <div align="center">
   <!-- Animated typing effect -->
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Engineer;Computer+Vision+Specialist;Full-Stack+Developer;Blockchain+Enthusiast;Always+Building+Something+Cool&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG" />
