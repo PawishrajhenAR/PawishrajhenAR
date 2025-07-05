@@ -131,43 +131,48 @@ class AIEngineer:
 
 ---
 
-## 🎨 Featured AI Projects
+## 🎨 My AI Project Areas
 
 <div align="center">
-  
-  <!-- Replace these with your actual repository names -->
-  <a href="https://github.com/PawishrajhenAR/computer-vision-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=computer-vision-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Computer Vision Project"/>
-  </a>
-  
-  <a href="https://github.com/PawishrajhenAR/nlp-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=nlp-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="NLP Project"/>
-  </a>
-  
-  <a href="https://github.com/PawishrajhenAR/blockchain-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=blockchain-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Blockchain Project"/>
-  </a>
-  
-  <a href="https://github.com/PawishrajhenAR/reinforcement-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawishrajhenAR&repo=reinforcement-learning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Reinforcement Learning"/>
-  </a>
-  
+
+### 🔬 Computer Vision
+*Building intelligent systems that can see and understand the world*
+- **Object Detection & Recognition** using YOLO and OpenCV
+- **Real-time Face & Pose Detection** with MediaPipe
+- **Image Processing & Analysis** pipelines
+
+### 🧠 Natural Language Processing
+*Teaching machines to understand human language*
+- **Text Analysis & Sentiment Detection**
+- **Speech Recognition** using Vosk
+- **RAG Systems** for intelligent document processing
+
+### 🎯 Reinforcement Learning
+*Creating agents that learn from experience*
+- **Game AI** using DQN and PPO algorithms
+- **Decision-making Systems** with Q-Learning
+- **Multi-agent Environments** with OpenAI Gym
+
+### 🔗 Blockchain Development
+*Building decentralized applications*
+- **Smart Contract Development**
+- **Web3 Integration** with modern frontends
+- **DeFi Applications** and protocols
+
 </div>
 
 ---
 
-## 📈 Snake Eating My Contributions
+## 📈 Additional GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PawishrajhenAR/PawishrajhenAR/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🔥 My GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/PawishrajhenAR?template=classic&languages=1&lines=1&followup=1&repositories=1&achievements=1&notable=1&discussions=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
+  
+  <!-- Repository stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&custom_title=Pawishrajhen's%20GitHub%20Stats" alt="Additional Stats"/>
+  
+  <!-- Contribution calendar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats"/>
+  
 </div>
 
 ---
