@@ -1,10 +1,7 @@
 🚀 Welcome to My AI & Tech Universe
-
 <div align="center">
-  
   <!-- Animated typing effect -->
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Engineer;Computer+Vision+Specialist;Full-Stack+Developer;Blockchain+Enthusiast;Always+Building+Something+Cool&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG" />
-  
   <!-- Social badges with custom styling -->
   <p>
     <a href="https://github.com/PawishrajhenAR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -12,10 +9,8 @@
     <a href="https://www.instagram.com/ipawish/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="mailto:pawishrajhen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
-  
   <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=PawishrajhenAR&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  
 </div>
 
 ---
