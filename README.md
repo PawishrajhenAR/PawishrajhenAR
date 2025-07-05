@@ -173,62 +173,32 @@ class AIEngineer:
 ## 🎨 My AI Project Areas
 
 <div align="center">
-  
-  <!-- AI Projects Header -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="AI Projects">
-  
-</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔬 Computer Vision</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200" alt="Computer Vision">
-      <p><em>Building intelligent systems that can see and understand the world</em></p>
-      <ul align="left">
-        <li>🎯 Object Detection & Recognition using YOLO</li>
-        <li>👁️ Real-time Face & Pose Detection with MediaPipe</li>
-        <li>🖼️ Image Processing & Analysis pipelines</li>
-        <li>📸 Custom Vision Models for specific domains</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧠 Natural Language Processing</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="200" alt="NLP">
-      <p><em>Teaching machines to understand human language</em></p>
-      <ul align="left">
-        <li>📝 Text Analysis & Sentiment Detection</li>
-        <li>🗣️ Speech Recognition using Vosk</li>
-        <li>📚 RAG Systems for intelligent document processing</li>
-        <li>🤖 Chatbots and Conversational AI</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🎯 Reinforcement Learning</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/212257456-4d8d264c-7e8d-4a24-9c04-94dfd0244900.gif" width="200" alt="RL">
-      <p><em>Creating agents that learn from experience</em></p>
-      <ul align="left">
-        <li>🎮 Game AI using DQN and PPO algorithms</li>
-        <li>🧭 Decision-making Systems with Q-Learning</li>
-        <li>🌐 Multi-agent Environments with OpenAI Gym</li>
-        <li>🚀 Autonomous Systems Development</li>
-      </ul>
-    </td>
-    <td align="center">
-      <h3>⛓️ Blockchain Development</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200" alt="Blockchain">
-      <p><em>Building decentralized applications</em></p>
-      <ul align="left">
-        <li>📜 Smart Contract Development</li>
-        <li>🌐 Web3 Integration with modern frontends</li>
-        <li>💰 DeFi Applications and protocols</li>
-        <li>🔐 Secure and Transparent Solutions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🔬 Computer Vision
+*Building intelligent systems that can see and understand the world*
+- **Object Detection & Recognition** using YOLO and OpenCV
+- **Real-time Face & Pose Detection** with MediaPipe
+- **Image Processing & Analysis** pipelines
+
+### 🧠 Natural Language Processing
+*Teaching machines to understand human language*
+- **Text Analysis & Sentiment Detection**
+- **Speech Recognition** using Vosk
+- **RAG Systems** for intelligent document processing
+
+### 🎯 Reinforcement Learning
+*Creating agents that learn from experience*
+- **Game AI** using DQN and PPO algorithms
+- **Decision-making Systems** with Q-Learning
+- **Multi-agent Environments** with OpenAI Gym
+
+### 🔗 Blockchain Development
+*Building decentralized applications*
+- **Smart Contract Development**
+- **Web3 Integration** with modern frontends
+- **DeFi Applications** and protocols
+
+</div>
 
 ---
 
@@ -236,13 +206,7 @@ class AIEngineer:
 
 <div align="center">
   
-  <!-- Music animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200" alt="Music">
-  
-  <a href="https://open.spotify.com">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&label=Coding%20with" alt="Spotify"/>
-  </a>
-  
+  <!-- Music mood badges -->
   <p>
     <img src="https://img.shields.io/badge/🎧_Lo--fi_Hip_Hop-FF6B6B?style=flat-square&labelColor=1ED760&color=white" alt="Lo-fi Hip Hop"/>
     <img src="https://img.shields.io/badge/🎵_Electronic_Focus-4ECDC4?style=flat-square&labelColor=1ED760&color=white" alt="Electronic Focus"/>
@@ -323,107 +287,13 @@ class AIEngineer:
   
 </div>
 
-<table align="center">
-  <tr>
-    <td>🔬</td>
-    <td>I love experimenting with cutting-edge AI models</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td>Currently exploring Agentic AI and RAG systems</td>
-  </tr>
-  <tr>
-    <td>🌊</td>
-    <td>Fascinated by the intersection of AI and blockchain</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td>Always learning something new in the AI space</td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td>I believe reinforcement learning is the future of AI decision-making</td>
-  </tr>
-  <tr>
-    <td>🔊</td>
-    <td>I can make computers see, hear, and understand human language!</td>
-  </tr>
-  <tr>
-    <td>☕</td>
-    <td>Powered by coffee and curiosity</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td>Building the future, one neural network at a time</td>
-  </tr>
-</table>
-
----
-
-## 🔥 Current Projects & Focus
+- 🔬 I love experimenting with cutting-edge AI models
+- 🎯 Currently exploring Agentic AI and RAG systems
+- 🌊 Fascinated by the intersection of AI and blockchain
+- 📚 Always learning something new in the AI space
+- 🎮 I believe reinforcement learning is the future of AI decision-making
+- 🔊 I can make computers see, hear, and understand human language!
 
 <div align="center">
-  
-  <!-- Current work animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-9d6e0d9c-8e9a-4c3d-9b3c-1f4c8f0e3d7e.gif" width="300" alt="Current Projects">
-  
-  ### 🚧 What I'm Working On
-  
-  ```yaml
-  current_projects:
-    - name: "AI-Powered Analytics Dashboard"
-      tech: ["Python", "Streamlit", "OpenAI API", "PostgreSQL"]
-      status: "In Progress"
-      
-    - name: "Computer Vision Security System"
-      tech: ["OpenCV", "YOLO", "Flask", "React"]
-      status: "MVP Ready"
-      
-    - name: "Blockchain-based Voting System"
-      tech: ["Solidity", "Web3.js", "React", "Node.js"]
-      status: "Planning"
-      
-    - name: "NLP Document Processor"
-      tech: ["Transformers", "FastAPI", "PostgreSQL"]
-      status: "Testing"
-  ```
-  
-</div>
-
----
-
-## 🌈 Skills Visualization
-
-<div align="center">
-  
-  <!-- Skills visualization -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284095-1e4e7b9c-8e5e-4c1c-8e5e-4c1c8e5e4c1c.gif" width="400" alt="Skills">
-  
-  ```
-  AI & ML          ████████████████████  95%
-  Computer Vision  ███████████████████   90%
-  Web Development  ████████████████      85%
-  NLP             ████████████████      80%
-  Blockchain      ███████████████       75%
-  Cloud Computing ██████████████        70%
-  DevOps          ████████████          65%
-  ```
-  
-</div>
-
----
-
-<div align="center">
-  
-  <!-- Footer with animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c38-9d33-bb57fcb8b9c4.gif" width="900" alt="Footer">
-  
-  ### 🎯 Let's Connect and Create Something Amazing!
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=00D9FF" alt="Footer Wave"/>
-  
-  ---
-  
-  <sub>⚡ Fun fact: This README is powered by AI and lots of coffee! ☕</sub>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=58a6ff" alt="Footer"/>
 </div>
