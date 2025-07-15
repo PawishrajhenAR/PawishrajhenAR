@@ -228,17 +228,6 @@ class AIEngineer:
   **"The best way to predict the future is to create it with AI"** ✨
   
   💬 Always open to collaborating on AI projects, discussing latest tech trends, or just geeking out about machine learning!
-  
-  <p>
-    <a href="mailto:pawishrajhen@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://linkedin.com/in/pawish6364/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-  
-</div>
 
 ---
 
