@@ -19,9 +19,6 @@
   <!-- Social badges -->
 
   <p>
-    <a href="https://github.com/PawishrajhenAR">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
-    </a>
     <a href="https://linkedin.com/in/pawish6364/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
     </a>
