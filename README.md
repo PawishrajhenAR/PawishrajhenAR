@@ -233,15 +233,6 @@ class AIEngineer:
   <!-- Fun facts with animation -->
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd1-9713-7b8e0a0db5c4.gif" width="200" alt="Fun Facts">
   
-</div>
-
-- 🔬 I love experimenting with cutting-edge AI models
-- 🎯 Currently exploring Agentic AI and RAG systems
-- 🌊 Fascinated by the intersection of AI and blockchain
-- 📚 Always learning something new in the AI space
-- 🎮 I believe reinforcement learning is the future of AI decision-making
-- 🔊 I can make computers see, hear, and understand human language!
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=58a6ff" alt="Footer"/>
 </div>
