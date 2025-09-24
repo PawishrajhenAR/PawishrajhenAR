@@ -225,13 +225,6 @@ class AIEngineer:
   💬 Always open to collaborating on AI projects, discussing latest tech trends, or just geeking out about machine learning!
 
 ---
-
-## 🚀 Fun Facts About Me
-
-<div align="center">
-  
-  <!-- Fun facts with animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd1-9713-7b8e0a0db5c4.gif" width="200" alt="Fun Facts">
   
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontColor=58a6ff" alt="Footer"/>
