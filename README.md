@@ -96,8 +96,8 @@ role: research lead
 ## `05 / telemetry`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawishrajhenAR&layout=compact&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=CBD5E1&langs_count=6" alt="Most used languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawishrajhenAR&theme=github_dark" alt="GitHub statistics"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawishrajhenAR&theme=github_dark" alt="Repositories by language"/>
 </div>
 
 <div align="center">
