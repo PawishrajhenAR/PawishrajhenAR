@@ -1,56 +1,111 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:050816,50:0B1120,100:111827&text=PAWISHRAJHEN%20A%20R&fontColor=7DD3FC&fontSize=38&fontAlignY=42&desc=software%20engineer%20%2F%2F%20applied%20ai%20%2F%2F%20systems&descAlignY=65&descSize=16" width="100%" alt="Pawishrajhen A R"/>
 
-# Pawishrajhen A R
+`GLASGOW, UK` · `TECHNICAL LEAD` · `AI SYSTEMS`
 
-### Software Engineer · Applied AI · Data Systems
-
-I build reliable software around AI, from Python APIs and RAG pipelines to products used by real clients.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://pawishrajhen-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawish6364/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pawishgpt@gmail.com)
-[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11564630)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=7DD3FC)](https://pawishrajhen-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=7DD3FC)](https://www.linkedin.com/in/pawish6364/)
+[![Email](https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=7DD3FC)](mailto:pawishgpt@gmail.com)
 
 </div>
 
-## About
+```console
+pawish@glasgow:~$ whoami
+Software engineer turning models, data, and APIs into products people can actually use.
 
-- Technical Lead at [KatalyzU](https://katalyzu.com), shipping web, mobile, backend, and AI products
-- MSc Data Science student at the University of Glasgow
-- University of Glasgow Global Leadership Scholar, one of 281 recipients worldwide
-- IEEE-published researcher working across applied AI, computer vision, and forecasting
-- Based in Glasgow, United Kingdom
+pawish@glasgow:~$ current
+Technical Lead @ KatalyzU
+MSc Data Science @ University of Glasgow
+Global Leadership Scholar [281 selected worldwide]
 
-## Selected Work
+pawish@glasgow:~$ uptime
+Building. Breaking. Measuring. Shipping.
+```
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [RAG DocChat](https://github.com/PawishrajhenAR/RAG-DocChatApp) | Private document Q&A with OCR, hybrid retrieval, and source-cited answers | Python, FAISS, Ollama, Streamlit |
-| [FieldAuth](https://github.com/PawishrajhenAR/FieldAuth-NHAI-Hackathon-7.0) | Offline identity verification with liveness checks and secure local records | React Native, Expo, SQLite |
-| [SightSpeak](https://github.com/PawishrajhenAR/SightSpeak) | Real-time assistive navigation using object detection and spoken guidance | YOLOv8, LLaMA, TTS |
-| [BigData E-Commerce](https://github.com/PawishrajhenAR/bigdata-ecommerce) | Analytics platform with ETL orchestration, warehouse modelling, and BI | Spark, Airflow, PostgreSQL, Tableau |
+## `01 / signal`
 
-## Toolkit
+I work where **backend engineering**, **applied AI**, and **product delivery** meet.  
+My favourite problems involve unreliable networks, private data, strange edge cases, and models that need to survive outside a notebook.
 
-**Languages:** Python, Java, SQL, TypeScript, JavaScript  
-**AI:** RAG, LLM workflows, PyTorch, TensorFlow, Hugging Face, FAISS, OpenCV  
-**Backend:** FastAPI, Flask, Node.js, REST APIs, PostgreSQL  
-**Platform:** Docker, Git, Linux, GCP, Vercel  
-**Frontend:** React, Next.js, React Native, Streamlit
+```python
+class Pawish:
+    builds = ["AI products", "Python APIs", "RAG systems", "data platforms"]
+    cares_about = ["reliability", "privacy", "useful interfaces", "clean handoffs"]
+    currently_exploring = ["agent orchestration", "LLM evaluation", "local inference"]
+    default_mode = "ship"
+```
 
-## Research
+## `02 / builds`
 
-- [**ReMindAR: Adaptive AR Memory Assistance for Dementia Patients**](https://ieeexplore.ieee.org/document/11564630), IEEE ICIMA 2026, co-author
-- [**Hybrid ARIMA-LSTM Forecasting of Ocean Acidification and Hypoxia**](https://doi.org/10.56581/IJLRET.11.05.41-49), research lead
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ RAG DocChat</h3>
+      <p>Private document intelligence with OCR, hybrid retrieval, local inference, and source-grounded answers.</p>
+      <p><code>Python</code> <code>FAISS</code> <code>Ollama</code> <code>Streamlit</code></p>
+      <a href="https://github.com/PawishrajhenAR/RAG-DocChatApp">inspect repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ FieldAuth</h3>
+      <p>Offline identity verification with liveness checks, encrypted records, GPS attendance, and sync-ready APIs.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>SQLite</code></p>
+      <a href="https://github.com/PawishrajhenAR/FieldAuth-NHAI-Hackathon-7.0">inspect repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ SightSpeak</h3>
+      <p>Assistive navigation that detects the physical world in real time and narrates useful context aloud.</p>
+      <p><code>YOLOv8</code> <code>LLaMA</code> <code>Computer Vision</code> <code>TTS</code></p>
+      <a href="https://github.com/PawishrajhenAR/SightSpeak">inspect repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ BigData E-Commerce</h3>
+      <p>Multi-source analytics pipeline with orchestration, warehouse modelling, distributed processing, and BI.</p>
+      <p><code>Spark</code> <code>Airflow</code> <code>PostgreSQL</code> <code>Tableau</code></p>
+      <a href="https://github.com/PawishrajhenAR/bigdata-ecommerce">inspect repository →</a>
+    </td>
+  </tr>
+</table>
 
-## Highlights
+## `03 / stack`
 
-`Global Leadership Scholar` · `IEEE Published` · `RPC 2024 Top 12 / 1,000+` · `HyperVerge Top 30 / 200+`
+```text
+LANG       Python · Java · SQL · TypeScript · JavaScript
+AI         RAG · LLM agents · PyTorch · TensorFlow · Hugging Face · OpenCV
+BACKEND    FastAPI · Flask · Node.js · REST · PostgreSQL
+DATA       Spark · Airflow · MySQL · MongoDB · Tableau
+SYSTEMS    Docker · Git · Linux · GCP · Vercel
+INTERFACE  React · Next.js · React Native · Streamlit
+```
+
+## `04 / research.log`
+
+```text
+[IEEE ICIMA 2026] ReMindAR
+Adaptive AR memory assistance for dementia patients
+role: co-author | classifier accuracy: 82.33%
+
+[IJLRET] Hybrid ARIMA-LSTM Forecasting
+Ocean acidification and hypoxia forecasting
+role: research lead
+```
+
+[Read ReMindAR](https://ieeexplore.ieee.org/document/11564630) · [Read ARIMA-LSTM](https://doi.org/10.56581/IJLRET.11.05.41-49)
+
+## `05 / telemetry`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PawishrajhenAR&show_icons=true&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawishrajhenAR&layout=compact&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=CBD5E1&langs_count=6" alt="Most used languages"/>
+</div>
 
 <div align="center">
 
-### Let’s build something useful.
+`GLOBAL LEADERSHIP SCHOLAR` · `IEEE PUBLISHED` · `RPC TOP 12 / 1,000+`
 
-[Portfolio](https://pawishrajhen-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pawish6364/) · [Email](mailto:pawishgpt@gmail.com)
+### Have a difficult problem? Good.
+
+[open a channel](mailto:pawishgpt@gmail.com) · [view portfolio](https://pawishrajhen-portfolio.vercel.app/)
 
 </div>
